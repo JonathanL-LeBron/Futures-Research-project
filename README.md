@@ -1,8 +1,35 @@
-# Futures-trading-projects
-# Welcome to my Futures Trading Project. This repository documents my personal journey into the world of futures markets—starting from scratch and building toward a fully functioning algorithmic trading strategy.
-# The goal of this project is to:
-## •	Understand the mechanics of futures contracts
-## •	Explore market data and common trading indicators
-## •	Design, test, and optimize algorithmic trading strategies
-## •	Evaluate performance using key financial metrics (Sharpe ratio, drawdown, etc.)
-## •	Ultimately, develop a robust and systematic trading strategy for live or simulated trading
+# 📈 Futures-Trading-Project
+
+Welcome to my **Futures Trading Project** — a self-guided exploration into algorithmic trading using futures contracts. This repository documents my learning process and development of various futures trading strategies from the ground up.
+
+---
+
+## 🎯 Objective
+
+The goal of this project is to:
+- Understand how futures markets operate
+- Build and test algorithmic trading strategies
+- Analyze performance using quantitative metrics
+- Apply financial theory and coding skills to real market data
+
+---
+
+## 🧩 Key Features
+
+- Strategy backtesting with historical data
+- Technical indicators and signal generation
+- Risk-adjusted performance evaluation (e.g., Sharpe ratio)
+- Step-by-step notebook documentation
+- Modular Python code for easy experimentation
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python 3.x**
+- **Pandas / NumPy** for data analysis
+- **Matplotlib / Plotly** for visualization
+- **TA-Lib** or **custom indicators**
+- **Backtrader / Zipline** (for backtesting)
+- **Jupyter Notebook** for prototyping
+
