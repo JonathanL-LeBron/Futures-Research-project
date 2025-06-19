@@ -31,5 +31,4 @@ The goal of this project is to:
 - **Matplotlib / Plotly** for visualization
 - **TA-Lib** or **custom indicators**
 - **Backtrader / Zipline** (for backtesting)
-- **Jupyter Notebook** for prototyping
 
