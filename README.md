@@ -26,7 +26,7 @@ The goal of this project is to:
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python**
 - **Pandas / NumPy** for data analysis
 - **Matplotlib / Plotly** for visualization
 - **TA-Lib** or **custom indicators**
